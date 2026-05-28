@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+lifelines
+matplotlib
+scipy
+joblib
